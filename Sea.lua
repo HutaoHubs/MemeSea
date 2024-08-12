@@ -3,7 +3,7 @@
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("Meme Sea | Xiaoly", "GrapeTheme")
+local Window = Library.CreateLib("Meme Sea | Xiaoly", "DarkTheme")
 
 local Tab1 = Window:NewTab("Settings")
 local Tab = Window:NewTab("Main-Features")
